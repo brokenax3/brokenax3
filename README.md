@@ -5,8 +5,11 @@ Hi! My name is Mark. I am a Bachelor's of Computer Engineering student from the 
     - Networking and Wireless Technologies 
         - Wi-Fi and Bluetooth
     - Automation
+        - Arduino and Raspberry Pi
     - Programming and Scripting
-        - Python, C++, Matlab, Java, Lua and Bash 
+        - Python, C++, Matlab, Java, Lua, Bash, Assembly, VHDL and HTML
+    - Mark-up
+        - Markdown and LaTeX
     - Linux
 - I am currently interested in :
     - Android Development
