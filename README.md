@@ -1,0 +1,23 @@
+- Hi! My name is Mark. I am a Computer Engineering student from the University of Wollongong.
+- I am proficient in Hardware and Software Development.
+- I have a wide understanding of topics related to technology such as :
+    - Networking and Wireless Technologies (Wi-Fi and Bluetooth)
+    - Automation
+    - Programming
+        - Python
+        - C++
+        - Java
+        - Lua
+        - Bash
+        - Matlab
+    - Linux
+- I am currently interested in :
+    - Computer Vision
+    - Deep Learning
+    - Android Development
+    - Automation
+    - Linux Kernel
+- I am currently learning :
+    - C++
+    - OpenCV
+    - Android Studio
